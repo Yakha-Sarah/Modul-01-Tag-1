@@ -1,6 +1,6 @@
 # Modul-01-Tag-1 -->
 
-## 1. Wie funktioniert die Git-Versionskontrolle???
+## 1. Wie funktioniert die Git-Versionskontrolle?
 
     Git ist eine **verteilte Versionskontrolle**. 
     Mit Versionskontroll-Tools kann man mit mehreren an einem Projekt arbeiten und jederzeit den Projektsverlauf mit verfolgen. Dort werden Änderungen in einer speziellen Datenbank namens Repository gespeichert. Dort kann man sehen, wer, wann und warum welche Änderungen vorgenommen wurden. Wenn man einen Fehler gemacht hat, kann man ganz leicht auf einen früheren Stand der Datei zurückgreifen.
