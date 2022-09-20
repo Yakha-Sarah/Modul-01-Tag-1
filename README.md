@@ -36,4 +36,4 @@
 
 ## 6. Was ist ein Gist?
 
-    Gist ist ein Tool zum Teilen von Text.
+    Innerhalb von GitHub eine Übersicht.
